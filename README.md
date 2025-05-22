@@ -30,7 +30,7 @@ A simple and responsive **Tic Tac Toe** game built using **HTML, CSS, and JavaSc
 <details>
 <summary>Click to expand</summary>
 
-![Tic Tac Toe Screenshot](https://ayushlochan.github.io/Tic-Tac-Toe/assets/screenshot.png) <!-- Replace with your actual screenshot URL -->
+![Tic Tac Toe Screenshot](![image](https://github.com/user-attachments/assets/145de506-7865-45da-95b6-238ab288122f)
 
 </details>
 
