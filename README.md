@@ -53,22 +53,3 @@ Tic-Tac-Toe/
 ├── style.css
 └── script.js
 ```
-
----
-
-## 📚 What You’ll Learn
-
-* How to manage state in a browser-based game
-* Conditional logic to check for winning combinations
-* Real-time DOM updates with JavaScript
-* Basic responsive layout techniques
-
----
-
-## 🙌 Acknowledgments
-
-This project was created as a beginner-friendly web game to practice and demonstrate basic front-end development skills.
-
----
-
-Let me know if you'd like to add badges, a GIF demo, or deployment instructions (e.g. for GitHub Pages)!
