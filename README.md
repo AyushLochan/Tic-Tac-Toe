@@ -1,7 +1,3 @@
-Absolutely! Here's a **polished and professional version** of your README for the Tic Tac Toe game:
-
----
-
 # 🎮 Tic Tac Toe – Web Game
 
 A simple and responsive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. This classic two-player game is designed for the web, offering clean UI, smooth gameplay, and dynamic win/draw detection. Ideal for beginners to understand DOM manipulation, game logic, and responsive design principles.
