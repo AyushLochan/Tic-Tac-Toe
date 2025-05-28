@@ -52,4 +52,3 @@ Tic-Tac-Toe/
 ├── index.html
 ├── style.css
 └── script.js
-```
